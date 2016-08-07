@@ -1,1 +1,6 @@
 test
+sano
+kawai 
+shimada
+inoue
+feature2git status3
